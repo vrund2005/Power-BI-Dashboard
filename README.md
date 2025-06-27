@@ -39,7 +39,7 @@ This Power BI project presents an end-to-end **sales and customer performance da
 ## 📸 Dashboard Screenshots
 
 #### 1. **Executive Summary Dashboard**
-![Dashboard](./screenshots/Overview.png)
+![Dashboard](./screenshots/Overview1.png)
 
 #### 2. **Product Insights**
 ![Product](./screenshots/Product.png)
