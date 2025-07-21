@@ -53,7 +53,7 @@ This Power BI project presents an end-to-end **sales and customer performance da
 
 | File/Folder | Description |
 |-------------|-------------|
-| `AdventureWorksDashboard.pbix` | Main Power BI report file (not included here) |
+| `AdventureWorksDashboard.pbix` | Main Power BI report file |
 | `README.md` | Project overview and documentation |
 | `/screenshots/` | Contains visual snapshots of the dashboard |
 
