@@ -6,7 +6,7 @@
 
 ## 📁 Project Overview
 
-This Power BI project presents an end-to-end **sales and customer performance dashboard** for *AdventureWorks Bike Shop*. The dashboard visualizes key business metrics like revenue, profit, order trends, product performance, and customer segmentation — empowering decision-makers with actionable insights.
+This Power BI project presents an end-to-end **sales and customer performance dashboard** for *AdventureWorks Shop*. The dashboard visualizes key business metrics like revenue, profit, order trends, product performance, and customer segmentation — empowering decision-makers with actionable insights.
 
 ---
 
